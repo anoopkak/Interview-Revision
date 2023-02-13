@@ -1,6 +1,6 @@
 | Date  | Task             | ✓     | Question                       | Link                                                          | Difficulty |
 |-------|------------------|-------|--------------------------------|---------------------------------------------------------------|------------|
-| Day 2 | 1. Binary Search | FALSE | Valid Perfect Square           | https://leetcode.com/problems/valid-perfect-square/           | Easy       |
+| Day 2 | 1. Binary Search | TRUE | Valid Perfect Square           | https://leetcode.com/problems/valid-perfect-square/           | Easy       |
 |       |                  | FALSE | Square root                    | https://leetcode.com/problems/sqrtx/                          | Easy       |
 |       |                  | FALSE | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array/ | Medium     |
 |       |                  | FALSE | Find Peak Element              | https://leetcode.com/problems/find-peak-element/              | Medium     |
